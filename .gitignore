@@ -1,0 +1,8 @@
+# Input observations may be proprietary. Keep them off public repositories.
+data/*
+!data/.gitkeep
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
